@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-form-validation/static/css/main.35f3145b.chunk.css",
+    "main.js": "/React-form-validation/static/js/main.4a30b1fa.chunk.js",
+    "main.js.map": "/React-form-validation/static/js/main.4a30b1fa.chunk.js.map",
+    "runtime-main.js": "/React-form-validation/static/js/runtime-main.53154638.js",
+    "runtime-main.js.map": "/React-form-validation/static/js/runtime-main.53154638.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/React-form-validation/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.76ee4d15.chunk.js": "/React-form-validation/static/js/2.76ee4d15.chunk.js",
+    "static/js/2.76ee4d15.chunk.js.map": "/React-form-validation/static/js/2.76ee4d15.chunk.js.map",
+    "index.html": "/React-form-validation/index.html",
+    "precache-manifest.d3dc748f914367f81687ab4cdafe97ea.js": "/React-form-validation/precache-manifest.d3dc748f914367f81687ab4cdafe97ea.js",
+    "service-worker.js": "/React-form-validation/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/React-form-validation/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.35f3145b.chunk.css.map": "/React-form-validation/static/css/main.35f3145b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53154638.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.76ee4d15.chunk.js",
+    "static/css/main.35f3145b.chunk.css",
+    "static/js/main.4a30b1fa.chunk.js"
+  ]
+}
