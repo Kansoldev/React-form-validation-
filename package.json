@@ -5,7 +5,7 @@
   "homepage": "https://kansoldev.github.io/React-form-validation/",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
